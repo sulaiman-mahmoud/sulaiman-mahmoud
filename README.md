@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there 👋  I'm Sulaiman Mahmoud </h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>  
+<h3 align="center">Learning is continous process with no end</h3>  
 
 <h1 align="center"> <p> <a href="https://www.linkedin.com/in/sulaiman-mahmoud-b11a72131/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p></h3> 
-
-
 
 
 
