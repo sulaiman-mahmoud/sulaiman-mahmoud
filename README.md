@@ -9,3 +9,4 @@
 - 👯 I’m looking to collaborate on medical fields, sports analysis and self car driving projects
 - 💬 Ask me about data science, machine learning, python, deep learning and computer vision
 - 📫 How to reach me: s.mahmoud.ext@gmil.com
+- ⚡ My Hobbies: reading, travelling, playing tennis and playing football.
